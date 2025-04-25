@@ -83,7 +83,7 @@ server/    # Express backend
 ```
 
 ---
-## Vercel link -https://bookcafe-workelate.vercel.app/profile
+## Vercel link - https://bookcafe-workelate.vercel.app/
 ## 📝 Notes
 - Ensure MongoDB is running and accessible.
 - For production, set proper environment variables and use secure API keys.
